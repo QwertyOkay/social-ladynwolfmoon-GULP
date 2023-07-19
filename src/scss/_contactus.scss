@@ -162,9 +162,10 @@
   border-radius: var(--border-radius);
   color: var(--color-black);
   background-image: linear-gradient(
-      180deg,
-      rgb(91 47 47 / 81%) -7.29%,
-      rgb(140 128 48 / 31%) 130.21%
+      90deg,
+      rgba(0, 0, 0, 0.85) 0%,
+      rgb(69 56 118 / 27%) 35%,
+      rgb(6 5 18 / 71%) 100%
     ),
     url(./../img/bcg.jpg);
   background-repeat: no-repeat;
@@ -192,11 +193,10 @@
 .submit-success > p {
   margin-top: 20px;
   margin-bottom: 30px;
-
-  font-size: 2em;
+  font-size: 1.7em;
   line-height: 1.5em;
   font-weight: 600;
-  color: var(--color-secondary);
+  color: var(--color-second);
 }
 
 .submit-success__img {

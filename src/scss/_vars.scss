@@ -9,21 +9,21 @@ $footerFont-size: 14px;
 $footerFontColor: #fff;
 
 :root {
-  --color-bg: #222940;
+  --color-bg: #590f3f;
 
-  --color-primary: #d92332;
-  --color-primary-hover: #d92323;
+  --color-primary: #8c1c65;
+  --color-primary-hover: #8d32a6;
   --color-white: #f0f0f2;
   --color-light: #fdf3e3;
-  --color-accent: #f27405;
-  --color-second: #f2c12e;
+  --color-accent: #f2138e;
+  --color-second: #f2b999;
 
-  --color-bg-variant: #8c0303;
-  --color-primary-variant: #f2c12e;
+  --color-bg-variant: #8c1c65;
+  --color-primary-variant: #f2b999;
 
-  --color-modalsBG: linear-gradient(180deg, #d92332, #d92323 100.21%);
-  --bacckground-modals: #3c4550;
-  --color-modalP: #f0f0f2;
+  --color-modalsBG: linear-gradient(180deg, #590f3f, #8c1c65 100.21%);
+  --bacckground-modals: #4a3c50;
+  --color-modalP: #f2b999;
 
   --transition: all 300ms ease;
   --border-radius: 10px;
